@@ -72,6 +72,7 @@ This repository brings together launch platforms, niche directories, AI tool lis
 | [**BetaPage**](https://betapage.co) | A startup showcase platform built to help new products gain visibility. |
 | [**Startup Stash**](https://startupstash.com) | A curated directory of startup resources and products often used by founders and operators. |
 | [**SideProjectors**](https://sideprojectors.com) | A marketplace-like platform for side projects, experiments, and indie-built products. |
+| [**SaaSCity**](https://saascity.io) | Gamified SaaS directory where each listing becomes a building on an interactive isometric city map. |
 | [**Tiny Startups**](https://tinystartups.com) | A product and founder discovery site for smaller, scrappy startups and solo-built ventures. |
 
 ---
