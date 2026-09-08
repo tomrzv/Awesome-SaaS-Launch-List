@@ -105,6 +105,7 @@ This repository brings together launch platforms, niche directories, AI tool lis
 | [**AI Scout**](https://aiscout.net) | An AI software listing site for finding and comparing new AI-powered tools. |
 | [**Futurepedia**](https://www.futurepedia.io) | A large AI tools database with category-based browsing and discovery. |
 | [**Insidr AI Tools**](https://www.insidr.ai/ai-tools) | A curated AI tools section for visibility among users actively exploring AI software. |
+| [**WhatAreYouBuilding.AI**](https://whatareyoubuilding.ai) | Free worldwide directory of independent builders' AI, SaaS, and dev tools (by country, category, funding stage). Free listing, dofollow, live badge; MCP for agents at /mcp. |
 
 ---
 
