@@ -73,6 +73,7 @@ This repository brings together launch platforms, niche directories, AI tool lis
 | [**Startup Stash**](https://startupstash.com) | A curated directory of startup resources and products often used by founders and operators. |
 | [**SideProjectors**](https://sideprojectors.com) | A marketplace-like platform for side projects, experiments, and indie-built products. |
 | [**Tiny Startups**](https://tinystartups.com) | A product and founder discovery site for smaller, scrappy startups and solo-built ventures. |
+| [**Unikt**](https://unikt.fr) | A French SaaS and startup discovery platform built around a French-based community, helping founders launch products and improve visibility. |
 
 ---
 
