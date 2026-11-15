@@ -73,6 +73,7 @@ This repository brings together launch platforms, niche directories, AI tool lis
 | [**Startup Stash**](https://startupstash.com) | A curated directory of startup resources and products often used by founders and operators. |
 | [**SideProjectors**](https://sideprojectors.com) | A marketplace-like platform for side projects, experiments, and indie-built products. |
 | [**Tiny Startups**](https://tinystartups.com) | A product and founder discovery site for smaller, scrappy startups and solo-built ventures. |
+| [**Go Publicly**](https://go-publicly.com) | A daily launch board for indie makers and SaaS founders, with free launches and featured paid slots. |
 
 ---
 
